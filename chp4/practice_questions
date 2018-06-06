@@ -1,0 +1,17 @@
+1 - list
+2 - spam.insert(2, 'hello')
+3 - 8
+4 - 10
+5 - [2,4,6]
+6 - 3
+7 - 99
+8 - [3.14, 11, 'cat', True]
+9 - + *
+10 - append() adds to end of list, insert() requires 2 arguments and specifies the index
+11 - del spam[1], remove('value')
+12 - a string is an imutable list of chars
+13 - lists are mutable and can be changes, tuples cannot be changed
+14 - spam(42)
+15 - tuple([42]), list[(42)]
+16 - references
+17 - copy.copy() copies the top level. leave references below the copy intact. copy.deepcopy() copies all values and no references
