@@ -1,0 +1,8 @@
+1)?	{}
+2)	{'foo': '42'}
+3) 	dictionary is a unordered set of key value pairs. list is an ordered set of values
+4)?	returns a type exception
+5)	
+6)
+7)	spam.setDefault('color', 'black')	
+8)
