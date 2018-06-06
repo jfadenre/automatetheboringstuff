@@ -1,0 +1,11 @@
+1)	they allow for using characters that normally would be a command within the string or a delimeter
+
+2)	\n is newline \t is tab
+3)	\\ can be used to add a \ to a string
+4)	the single quote is within a double quote
+5)	''' block text input will output with the same newline formatting
+6)	e Hello Hello lo world
+7)	HELLO true false
+8)	
+9)	ljust() rjust() center()
+10)	lstrip() rstrip()
